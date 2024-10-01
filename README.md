@@ -27,3 +27,10 @@ docker-compose up
 5. Using Spring Boot Envers for tracking operations over the entities
 6. Using swagger for endpoint documentation and OPEN API
 7. Postman collection added to the main root of the project
+
+# Credentials
+1. user: admin
+2. password: a9165173-3c38-4c71-b8db-a8152a61f2a3
+
+# Important
+Please with Spring Boot use the dev profile
